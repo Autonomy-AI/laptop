@@ -152,7 +152,7 @@ cask "gpg-suite-no-mail"
 cask "google-chrome"
 cask "visual-studio-code"
 cask "cursor"
-brew install homebrew/cask-versions/visual-studio-code-insiders
+cask "visual-studio-code@insiders"
 cask "pycharm-ce"
 cask "orbstack"
 cask "dbeaver-community"
